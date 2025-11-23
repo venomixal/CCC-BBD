@@ -1,6 +1,6 @@
 {
 	"Name": "Content Creator Clash",
-	"Version": 1761731759,
+	"Version": 1763791559,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -839,7 +839,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"34"
+				"20"
 			],
 			"BalanceTiers": [
 				0,
