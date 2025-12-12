@@ -1,6 +1,6 @@
 {
-	"Name": "Content Creator Clash",
-	"Version": 1763791559,
+	"Name": "The Black Vale - New Year Blitz",
+	"Version": 1765513756,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -81,9 +81,11 @@
 				"276",
 				"165",
 				"244",
+				"166",
 				"167",
 				"168",
 				"169",
+				"282",
 				"172",
 				"174",
 				"175",
@@ -92,11 +94,13 @@
 				"180",
 				"182",
 				"183",
+				"185",
 				"186",
 				"265",
 				"187",
 				"188",
 				"189",
+				"190",
 				"256",
 				"195",
 				"196",
@@ -105,16 +109,19 @@
 				"278",
 				"205",
 				"284",
+				"209",
 				"211",
 				"212",
 				"216",
 				"218",
 				"272",
 				"217",
+				"221",
 				"223",
 				"225",
 				"226",
 				"227",
+				"228",
 				"235",
 				"238",
 				"249",
@@ -122,6 +129,7 @@
 				"239",
 				"293",
 				"257",
+				"241",
 				"242"
 			],
 			"SurvivorComboPerkBans": [
@@ -235,6 +243,7 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"142",
+				"162",
 				"170",
 				"171",
 				"173",
@@ -272,6 +281,7 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"142",
+				"162",
 				"170",
 				"171",
 				"173",
@@ -311,6 +321,7 @@
 			],
 			"KillerIndvPerkBans": [
 				"132",
+				"162",
 				"170",
 				"171",
 				"173",
@@ -839,15 +850,15 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"20"
+				"49"
 			],
 			"BalanceTiers": [
 				0,
-				6
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				6
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -861,7 +872,11 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				94,
-				92
+				92,
+				98,
+				96,
+				84,
+				95
 			],
 			"ItemWhitelist": [
 				0,
@@ -2699,11 +2714,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
