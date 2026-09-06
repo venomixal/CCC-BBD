@@ -1,6 +1,6 @@
 {
 	"Name": "TBV - PYP Event",
-	"Version": 1787543301,
+	"Version": 1788698666,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -21,6 +21,7 @@
 				"15",
 				"17",
 				"247",
+				"318",
 				"73",
 				"23",
 				"24",
@@ -43,6 +44,7 @@
 				"267",
 				"48",
 				"49",
+				"319",
 				"294",
 				"262",
 				"56",
@@ -68,6 +70,7 @@
 				"94",
 				"296",
 				"97",
+				"320",
 				"99",
 				"105",
 				"106",
@@ -85,6 +88,7 @@
 				"137",
 				"140",
 				"141",
+				"315",
 				"144",
 				"255",
 				"148",
@@ -112,6 +116,7 @@
 				"182",
 				"183",
 				"243",
+				"316",
 				"184",
 				"185",
 				"186",
@@ -121,6 +126,7 @@
 				"192",
 				"215",
 				"194",
+				"317",
 				"197",
 				"198",
 				"199",
@@ -3082,6 +3088,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
